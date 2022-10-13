@@ -6,5 +6,5 @@ This repository contains code and slides of the project of predicting future num
 
 3. Predict NYC Taxi TXR Number.ipynb: contains code for model building and performance conparison.
 
-If interested, the project is also described in my [post](https://halfmoonliu.github.io/posts/predict-future-number-of-taxi-transactions/).
+If interested, the project is also described in my [blog post](https://halfmoonliu.github.io/posts/predict-future-number-of-taxi-transactions/).
    
