@@ -1,6 +1,6 @@
-This repository contains code and slides of the project of predicting future number of taxi transaction in New York City, which is an example of time series forecasting. The repository contains 3 files:
+This repository contains code and slides of the project of predicting the future number of taxi transaction in New York City, which is an example of time series forecasting. The repository contains 3 files:
 
-1. **Predict Future Number of Taxi TXR.pdf**: contains ***slides*** summarizng the background, purpose, methodologies, result and implocations of the project.
+1. **Predict Future Number of Taxi TXR.pdf**: contains ***slides*** summarizing the background, purpose, methodologies, result and implications of the project.
    
 2. **Exploratory Analysis NYC Taxi TXR.ipynb**: contains ***code*** of exploratory analysis on  New York City taxi transaction data.
 
